@@ -1,0 +1,18 @@
+
+# Calculator Hub
+
+> Calculator Hub is an online calculator website designed to help users perform common calculations quickly and conveniently.
+
+## Website
+
+- Homepage: /
+- Available calculators: /#calculators
+- Contact: /#contact
+
+## About
+
+Calculator Hub provides browser-based tools for everyday calculations, including age and health-related calculations where available.
+
+## Usage
+
+Use the website's public pages to explore available calculators. Results are intended for general informational purposes and should be checked when accuracy is important.
